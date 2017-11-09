@@ -1,0 +1,16 @@
+C:\visual studio projects\HiveTools\HiveTools\bin\Release\HiveTools.exe
+C:\visual studio projects\HiveTools\HiveTools\bin\Release\HiveTools.pdb
+C:\visual studio projects\HiveTools\HiveTools\bin\Release\Oracle.ManagedDataAccess.dll
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.csprojResolveAssemblyReference.cache
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.FormWait.resources
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.Properties.Resources.resources
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.csproj.GenerateResource.Cache
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.exe
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.pdb
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.MainForm.resources
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.FormCustomConsole.resources
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.GraphForm.resources
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.FormGUIStats.resources
+C:\visual studio projects\HiveTools\HiveTools\bin\Release\HiveTools.exe.config
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.FormWaitMarquee.resources
+C:\visual studio projects\HiveTools\HiveTools\obj\Release\HiveTools.DataIntegrityGUIForm.resources

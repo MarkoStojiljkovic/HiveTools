@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ConfigColor xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ColorRepeat>#FFFFA500</ColorRepeat>
+  <ColorDuplicate>#FF808000</ColorDuplicate>
+  <ColorMissing>#FFFF4500</ColorMissing>
+  <ColorNull>#FFDA70D6</ColorNull>
+  <ColorZero>#FF6495ED</ColorZero>
+  <ColorInvalid>#FFFF0000</ColorInvalid>
+  <ColorValid>#FF008000</ColorValid>
+</ConfigColor>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ConfigDeltaValues xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <deltaCurrent>0.01</deltaCurrent>
+  <deltaVoltage>0.1</deltaVoltage>
+  <zeroDeltaCurrent>0.2</zeroDeltaCurrent>
+  <zeroDeltaVoltage>1</zeroDeltaVoltage>
+</ConfigDeltaValues>
